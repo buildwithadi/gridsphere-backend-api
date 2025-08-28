@@ -48,9 +48,9 @@ This project requires Python
     cd your-repository-name
     ```
 
-2.  **Install the required library:**
+2.  **Run the test.py file:**
     ```bash
-    run test.py
+    python test.py
     ```
 
 ## 💧 Practical Application: Smart Irrigation
