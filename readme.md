@@ -1,10 +1,5 @@
 # Crop Evapotranspiration (ETc) Calculator
 
-!
-
-[Image of a farm field with an irrigation system]
-(https://i.imgur.com/8QZz49W.jpeg)
-
 A Python tool designed to calculate daily **Crop Evapotranspiration ($ET_c$)**, a critical metric for precision agriculture and efficient water management. This program leverages the robust `pyeto` library, which implements the FAO-56 Penman-Monteith method, the standard for estimating evapotranspiration.
 
 By determining the precise amount of water lost from a field daily, farmers can optimize irrigation schedules, conserve water and energy, improve nutrient management, and ultimately boost crop yield and health.
