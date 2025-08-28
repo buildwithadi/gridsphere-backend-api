@@ -44,7 +44,7 @@ This project requires Python
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone [https://github.com/buildwithadi/gridsphere-backend-api.git](https://github.com/buildwithadi/gridsphere-backend-api.git)
     cd your-repository-name
     ```
 
@@ -75,7 +75,7 @@ The farmer knows they need to apply exactly **3 mm** of water through irrigation
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/your-repository-name/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/buildwithadi/gridsphere-backend-api/issues).
 
 ---
 
